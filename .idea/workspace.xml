@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42644e01-707c-4883-9444-61553b09afba" name="Changes" comment="Repo creation">
+    <list default="true" id="42644e01-707c-4883-9444-61553b09afba" name="Changes" comment="Creation of the game and link to the CityEngine Library">
+      <change afterPath="$PROJECT_DIR$/data/books.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/student.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgramingCoursework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramingCoursework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -28,13 +34,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/EdVisinheski/IN1007/JavaProgramingCoursework",
+    "last_opened_file_path": "/Users/EdVisinheski/IN1007/JavaProgramingCoursework/data",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677769687484</updated>
       <workItem from="1677769688865" duration="245000" />
-      <workItem from="1677770003904" duration="1487000" />
+      <workItem from="1677770003904" duration="2691000" />
     </task>
     <task id="LOCAL-00001" summary="Repo creation">
       <created>1677770026893</created>
@@ -53,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677770026893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creation of the game and link to the CityEngine Library">
+      <created>1677771626480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677771626480</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,7 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Repo creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repo creation" />
+    <MESSAGE value="Creation of the game and link to the CityEngine Library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation of the game and link to the CityEngine Library" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
